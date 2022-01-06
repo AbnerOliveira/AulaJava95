@@ -42,3 +42,4 @@ public class Aula_95 {
         System.out.println(name);
     }
 }
+// Aula Java Comgit addpleto, aprendendo a trabalhar com listagem e inicialização de Lambda
